@@ -11,4 +11,4 @@ def print_values(**kwargs):
 
 
 if __name__ == '__main__':
-    print_values(name="Oleg", age=19, city="Stavropool")
+    print_values(name="Bulat", age=20, city="Stavropool")
